@@ -1,0 +1,120 @@
+{
+  "items": [
+    {
+      "name": "Test 1",
+      "item-code": "Test-1",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "0004 Q3 Never Ending Loop",
+          "item-code": "Test-1/0004_Q3_Never_Ending_Loop",
+          "item-type": "resource",
+          "resource": "RE_0001"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "RE_0001": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": "image",
+            "image": "images/Q3_Never_Ending_Loop.png"
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ_IMAGE_NEW",
+          "data": {
+            "questiondata": [
+              {
+                "text": "<p>Will this code ever end?</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },     
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "I don’t know" 
+              },
+              {
+                "choiceB": "No, this code will not stop running, until we force quit the program."
+              },
+              {
+                "choiceC": "Yes, this code will stop after running 1000 times"
+              },
+              {
+                "choiceD": "There is an error in this code"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "i1": {
+          "fn_contains": [
+            {
+             "keywords": ["I don’t know"],
+             "message": "That’s ok. We are trying to create a custom course for you, so it is good for us to know what you know",
+             "action": "end-current-test"
+            },
+            {
+             "keywords": ["No, this code will not stop running, until we force quit the program."],
+             "message": "This is correct. Now we know that you know how while loops work.",
+             "action": "end-current-question"
+            },
+            {
+             "keywords": ["Yes, this code will stop after running 1000 times"],
+             "message": "Hmm. Have a look at line 2 again, do you think the code suggests that the program end after the while loop has executed a 1000 times."         
+            },
+            {
+             "keywords": ["There is an error in this code"],
+             "message": "That’s interesting. We were able to run this code without any errors."         
+            }
+          ]      
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    }
+  },
+  "test": {
+    "learning-objectives": {
+      "Learning Basic Excel Skills": {
+        "learning-objectives": {
+        }
+      }
+    },
+    "tags": {
+      "test": {
+        "tags": {}
+      }
+    }
+  }
+}

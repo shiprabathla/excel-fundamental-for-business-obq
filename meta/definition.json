@@ -1,0 +1,3098 @@
+{
+  "definition": {
+    "learning-objectives": {
+      "Learning Basic Excel Skills": {
+        "learning-objectives": {}
+      },
+      "How to Use Excel Functions": {
+        "learning-objectives": {}
+      },
+      "Use of Charts": {
+        "learning-objectives": {}
+      },
+      "Use of Filtering and Sorting": {
+        "learning-objectives": {}
+      }
+    },
+    "tags": {
+      "Reading": {
+        "tags": {}
+      },
+      "Videos": {
+        "tags": {}
+      },
+      "Practice": {
+        "tags": {}
+      },
+      "Test": {
+        "tags": {}
+      }
+    }
+  },
+  "items":{
+    "default" : [
+      {
+        "name": "Module 01 - Learning Basic Skills",
+        "item-type": "folder",
+        "item-code": "Module_01-_Learning_Basic_Skills_module",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_0001",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/Introduction",
+            "tracking": true
+          },
+          {
+	    "name": "Fill in the blanks",
+	    "item-type": "resource",
+	    "resource": "RE_0129",
+	    "item-code": "Module_01-_Learning_Basic_Skills_module/Fill_in_the_blanks",
+	    "tracking": true
+          },
+          {
+            "name": "Getting Started with Excel",
+            "item-type": "folder",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/Getting_Started_with_Excel",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0002",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Getting_Started_with_Excel/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0003",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Getting_Started_with_Excel/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0004",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Getting_Started_with_Excel/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0005",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Getting_Started_with_Excel/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Getting_Started_with_Excel/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0006",
+                    "item-code": "Module_01-_Learning_Basic_Skills_module/Getting_Started_with_Excel/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "How to Enter Text and Select a Cell",
+            "item-type": "folder",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/How_to_Enter_Text_and_Select_a_Cell",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0007",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/How_to_Enter_Text_and_Select_a_Cell/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0008",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/How_to_Enter_Text_and_Select_a_Cell/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0009",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/How_to_Enter_Text_and_Select_a_Cell/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0010",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/How_to_Enter_Text_and_Select_a_Cell/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/How_to_Enter_Text_and_Select_a_Cell/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0011",
+                    "item-code": "Module_01-_Learning_Basic_Skills_module/How_to_Enter_Text_and_Select_a_Cell/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Using Auto Fill and Keyboard Shortcuts",
+            "item-type": "folder",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/Using_Auto_Fill_and_Keyboard_Shortcuts",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0012",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Using_Auto_Fill_and_Keyboard_Shortcuts/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0013",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Using_Auto_Fill_and_Keyboard_Shortcuts/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0014",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Using_Auto_Fill_and_Keyboard_Shortcuts/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0015",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Using_Auto_Fill_and_Keyboard_Shortcuts/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Using_Auto_Fill_and_Keyboard_Shortcuts/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0016",
+                    "item-code": "Module_01-_Learning_Basic_Skills_module/Using_Auto_Fill_and_Keyboard_Shortcuts/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Entering Numbers",
+            "item-type": "folder",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/Entering_Numbers",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0017",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Entering_Numbers/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0018",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Entering_Numbers/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0019",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Entering_Numbers/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0020",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Entering_Numbers/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Entering_Numbers/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0021",
+                    "item-code": "Module_01-_Learning_Basic_Skills_module/Entering_Numbers/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Printing a Section of a Worksheet",
+            "item-type": "folder",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/Printing_a_Section_of_a_Worksheet",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0022",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Printing_a_Section_of_a_Worksheet/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0023",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Printing_a_Section_of_a_Worksheet/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0024",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Printing_a_Section_of_a_Worksheet/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0025",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Printing_a_Section_of_a_Worksheet/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Printing_a_Section_of_a_Worksheet/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0026",
+                    "item-code": "Module_01-_Learning_Basic_Skills_module/Printing_a_Section_of_a_Worksheet/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Grouping Worksheets for Editing",
+            "item-type": "folder",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/Grouping_Worksheets_for_Editing",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0027",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Grouping_Worksheets_for_Editing/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0028",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Grouping_Worksheets_for_Editing/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0029",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Grouping_Worksheets_for_Editing/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0030",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Grouping_Worksheets_for_Editing/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Grouping_Worksheets_for_Editing/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0031",
+                    "item-code": "Module_01-_Learning_Basic_Skills_module/Grouping_Worksheets_for_Editing/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Freezing and Unfreezing Panes",
+            "item-type": "folder",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/Freezing_and_Unfreezing_Panes",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0032",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Freezing_and_Unfreezing_Panes/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0033",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Freezing_and_Unfreezing_Panes/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0034",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Freezing_and_Unfreezing_Panes/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0035",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Freezing_and_Unfreezing_Panes/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_01-_Learning_Basic_Skills_module/Freezing_and_Unfreezing_Panes/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0036",
+                    "item-code": "Module_01-_Learning_Basic_Skills_module/Freezing_and_Unfreezing_Panes/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "End of Module Assessment",
+            "item-type": "resource",
+            "resource": "RE_0037",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/End_of_Module_Assessment",
+            "tracking": true
+          }
+        ]
+      },
+      {
+        "name": "Module 02 - Using Excel Functions",
+        "item-type": "folder",
+        "item-code": "Module_02_-_Using_Excel_Functions",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_0038",
+            "item-code": "Module_02_-_Using_Excel_Functions/Introduction",
+            "tracking": true
+          },
+          {
+            "name": "Performing basic calculation",
+            "item-type": "folder",
+            "item-code": "Module_02_-_Using_Excel_Functions/Performing_basic_calculation",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0039",
+                "item-code": "Module_02_-_Using_Excel_Functions/Performing_basic_calculation/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0040",
+                "item-code": "Module_02_-_Using_Excel_Functions/Performing_basic_calculation/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0041",
+                "item-code": "Module_02_-_Using_Excel_Functions/Performing_basic_calculation/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0042",
+                "item-code": "Module_02_-_Using_Excel_Functions/Performing_basic_calculation/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_02_-_Using_Excel_Functions/Performing_basic_calculation/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0043",
+                    "item-code": "Module_02_-_Using_Excel_Functions/Performing_basic_calculation/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Using the MEDIAN Function",
+            "item-type": "folder",
+            "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MEDIAN_Function",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0044",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MEDIAN_Function/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0045",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MEDIAN_Function/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0046",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MEDIAN_Function/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0047",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MEDIAN_Function/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MEDIAN_Function/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0048",
+                    "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MEDIAN_Function/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Using the MIN and MAX Functions",
+            "item-type": "folder",
+            "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MIN_and_MAX_Functions",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0049",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MIN_and_MAX_Functions/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0050",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MIN_and_MAX_Functions/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0051",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MIN_and_MAX_Functions/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0052",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MIN_and_MAX_Functions/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MIN_and_MAX_Functions/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0053",
+                    "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MIN_and_MAX_Functions/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Using the COUNTIF Function",
+            "item-type": "folder",
+            "item-code": "Module_02_-_Using_Excel_Functions/Using_the_COUNTIF_Function",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0054",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_COUNTIF_Function/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0055",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_COUNTIF_Function/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0056",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_COUNTIF_Function/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0057",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_COUNTIF_Function/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_COUNTIF_Function/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0058",
+                    "item-code": "Module_02_-_Using_Excel_Functions/Using_the_COUNTIF_Function/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Using the IF Function",
+            "item-type": "folder",
+            "item-code": "Module_02_-_Using_Excel_Functions/Using_the_IF_Function",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0059",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_IF_Function/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0060",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_IF_Function/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0061",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_IF_Function/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0062",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_IF_Function/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_IF_Function/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0063",
+                    "item-code": "Module_02_-_Using_Excel_Functions/Using_the_IF_Function/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Using the SUMIF Function",
+            "item-type": "folder",
+            "item-code": "Module_02_-_Using_Excel_Functions/Using_the_SUMIF_Function",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0064",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_SUMIF_Function/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0065",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_SUMIF_Function/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0066",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_SUMIF_Function/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0067",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_SUMIF_Function/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_02_-_Using_Excel_Functions/Using_the_SUMIF_Function/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0068",
+                    "item-code": "Module_02_-_Using_Excel_Functions/Using_the_SUMIF_Function/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "End of Module Assessment",
+            "item-type": "resource",
+            "resource": "RE_0069",
+            "item-code": "Module_01-_Learning_Basic_Skills_module/End_of_Module_Assessment",
+            "tracking": true
+          }
+        ]
+      },
+      {
+        "name": "Module 03 - Use of Charts",
+        "item-type": "folder",
+        "item-code": "Module_03_-_Use_of_Charts",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_0070",
+            "item-code": "Module_03_-_Use_of_Charts/Introduction",
+            "tracking": true
+          },
+          {
+            "name": "Calculating Values for a Pie Chart",
+            "item-type": "folder",
+            "item-code": "Module_03_-_Use_of_Charts/Calculating_Values_for_a_Pie_Chart",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0071",
+                "item-code": "Module_03_-_Use_of_Charts/Calculating_Values_for_a_Pie_Chart/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0072",
+                "item-code": "Module_03_-_Use_of_Charts/Calculating_Values_for_a_Pie_Chart/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0073",
+                "item-code": "Module_03_-_Use_of_Charts/Calculating_Values_for_a_Pie_Chart/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0074",
+                "item-code": "Module_03_-_Use_of_Charts/Calculating_Values_for_a_Pie_Chart/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_03_-_Use_of_Charts/Calculating_Values_for_a_Pie_Chart/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0075",
+                    "item-code": "Module_03_-_Use_of_Charts/Calculating_Values_for_a_Pie_Chart/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Creating a Pie Chart and Moving a Chart to a Chart Sheet",
+            "item-type": "folder",
+            "item-code": "Module_03_-_Use_of_Charts/Creating_a_Pie_Chart_and_Moving_a_Chart_to_a_Chart_Sheet",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0076",
+                "item-code": "Module_03_-_Use_of_Charts/Creating_a_Pie_Chart_and_Moving_a_Chart_to_a_Chart_Sheet/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0077",
+                "item-code": "Module_03_-_Use_of_Charts/Creating_a_Pie_Chart_and_Moving_a_Chart_to_a_Chart_Sheet/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0078",
+                "item-code": "Module_03_-_Use_of_Charts/Creating_a_Pie_Chart_and_Moving_a_Chart_to_a_Chart_Sheet/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0079",
+                "item-code": "Module_03_-_Use_of_Charts/Creating_a_Pie_Chart_and_Moving_a_Chart_to_a_Chart_Sheet/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_03_-_Use_of_Charts/Creating_a_Pie_Chart_and_Moving_a_Chart_to_a_Chart_Sheet/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0080",
+                    "item-code": "Module_03_-_Use_of_Charts/Creating_a_Pie_Chart_and_Moving_a_Chart_to_a_Chart_Sheet/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rotating a Pie Chart by Changing the Angle of the First Slice",
+            "item-type": "folder",
+            "item-code": "Module_03_-_Use_of_Charts/Rotating_a_Pie_Chart_by_Changing_the_Angle_of_the_First_Slice",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0081",
+                "item-code": "Module_03_-_Use_of_Charts/Rotating_a_Pie_Chart_by_Changing_the_Angle_of_the_First_Slice/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0082",
+                "item-code": "Module_03_-_Use_of_Charts/Rotating_a_Pie_Chart_by_Changing_the_Angle_of_the_First_Slice/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0083",
+                "item-code": "Module_03_-_Use_of_Charts/Rotating_a_Pie_Chart_by_Changing_the_Angle_of_the_First_Slice/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0084",
+                "item-code": "Module_03_-_Use_of_Charts/Rotating_a_Pie_Chart_by_Changing_the_Angle_of_the_First_Slice/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_03_-_Use_of_Charts/Rotating_a_Pie_Chart_by_Changing_the_Angle_of_the_First_Slice/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0085",
+                    "item-code": "Module_03_-_Use_of_Charts/Rotating_a_Pie_Chart_by_Changing_the_Angle_of_the_First_Slice/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Inserting Multiple Rows and Creating a Line Chart",
+            "item-type": "folder",
+            "item-code": "Module_03_-_Use_of_Charts/Inserting_Multiple_Rows_and_Creating_a_Line_Chart",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0086",
+                "item-code": "Module_03_-_Use_of_Charts/Inserting_Multiple_Rows_and_Creating_a_Line_Chart/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0087",
+                "item-code": "Module_03_-_Use_of_Charts/Inserting_Multiple_Rows_and_Creating_a_Line_Chart/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0088",
+                "item-code": "Module_03_-_Use_of_Charts/Inserting_Multiple_Rows_and_Creating_a_Line_Chart/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0089",
+                "item-code": "Module_03_-_Use_of_Charts/Inserting_Multiple_Rows_and_Creating_a_Line_Chart/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_03_-_Use_of_Charts/Inserting_Multiple_Rows_and_Creating_a_Line_Chart/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0090",
+                    "item-code": "Module_03_-_Use_of_Charts/Inserting_Multiple_Rows_and_Creating_a_Line_Chart/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Formatting Axes in a Line Chart",
+            "item-type": "folder",
+            "item-code": "Module_03_-_Use_of_Charts/Formatting_Axes_in_a_Line_Chart",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0091",
+                "item-code": "Module_03_-_Use_of_Charts/Formatting_Axes_in_a_Line_Chart/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0092",
+                "item-code": "Module_03_-_Use_of_Charts/Formatting_Axes_in_a_Line_Chart/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0093",
+                "item-code": "Module_03_-_Use_of_Charts/Formatting_Axes_in_a_Line_Chart/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0094",
+                "item-code": "Module_03_-_Use_of_Charts/Formatting_Axes_in_a_Line_Chart/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_03_-_Use_of_Charts/Formatting_Axes_in_a_Line_Chart/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0095",
+                    "item-code": "Module_03_-_Use_of_Charts/Formatting_Axes_in_a_Line_Chart/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "End of Module Assessment",
+            "item-type": "resource",
+            "resource": "RE_0096",
+            "item-code": "Module_03_-_Use_of_Charts/End_of_Module_Assessment",
+            "tracking": true
+          }
+        ]
+      },
+      {
+        "name": "Module 04 - Use of Filtering and Sorting",
+        "item-type": "folder",
+        "item-code": "Module_04_-_Use_of_Filtering_and_Sorting",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_0097",
+            "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Introduction",
+            "tracking": true
+          },
+          {
+            "name": "Sorting on Multiple Columns",
+            "item-type": "folder",
+            "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_on_Multiple_Columns",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0098",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_on_Multiple_Columns/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0099",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_on_Multiple_Columns/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0100",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_on_Multiple_Columns/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0101",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_on_Multiple_Columns/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_on_Multiple_Columns/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0102",
+                    "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_on_Multiple_Columns/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Sorting by Using a Custom List",
+            "item-type": "folder",
+            "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_by_Using_a_Custom_List",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0103",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_by_Using_a_Custom_List/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0104",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_by_Using_a_Custom_List/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0105",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_by_Using_a_Custom_List/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0106",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_by_Using_a_Custom_List/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_by_Using_a_Custom_List/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0107",
+                    "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_by_Using_a_Custom_List/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Filtering by Format and Value Using AutoFilter",
+            "item-type": "folder",
+            "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Format_and_Value_Using_AutoFilter",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0108",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Format_and_Value_Using_AutoFilter/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0109",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Format_and_Value_Using_AutoFilter/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0110",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Format_and_Value_Using_AutoFilter/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0111",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Format_and_Value_Using_AutoFilter/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Format_and_Value_Using_AutoFilter/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0112",
+                    "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Format_and_Value_Using_AutoFilter/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Filtering by Custom Criteria Using AutoFilter",
+            "item-type": "folder",
+            "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Custom_Criteria_Using_AutoFilter",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0113",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Custom_Criteria_Using_AutoFilter/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0114",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Custom_Criteria_Using_AutoFilter/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0115",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Custom_Criteria_Using_AutoFilter/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0116",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Custom_Criteria_Using_AutoFilter/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Custom_Criteria_Using_AutoFilter/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0117",
+                    "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Custom_Criteria_Using_AutoFilter/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Using the Name Manager and Filtering by Using Advanced Criteria",
+            "item-type": "folder",
+            "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Using_the_Name_Manager_and_Filtering_by_Using_Advanced_Criteria",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0118",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Using_the_Name_Manager_and_Filtering_by_Using_Advanced_Criteria/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0119",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Using_the_Name_Manager_and_Filtering_by_Using_Advanced_Criteria/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0120",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Using_the_Name_Manager_and_Filtering_by_Using_Advanced_Criteria/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0121",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Using_the_Name_Manager_and_Filtering_by_Using_Advanced_Criteria/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Using_the_Name_Manager_and_Filtering_by_Using_Advanced_Criteria/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0122",
+                    "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Using_the_Name_Manager_and_Filtering_by_Using_Advanced_Criteria/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Naming Ranges and Extracting Filtered Rows",
+            "item-type": "folder",
+            "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Naming_Ranges_and_Extracting_Filtered_Rows",
+            "tracking": true,
+            "sub-type": "mil-activity",
+            "items": [
+              {
+                "name": "Read",
+                "item-type": "resource",
+                "resource": "RE_0123",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Naming_Ranges_and_Extracting_Filtered_Rows/Read",
+                "tracking": true
+              },
+              {
+                "name": "Watch",
+                "item-type": "resource",
+                "resource": "RE_0124",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Naming_Ranges_and_Extracting_Filtered_Rows/Watch",
+                "tracking": true
+              },
+              {
+                "name": "Practice",
+                "item-type": "resource",
+                "resource": "RE_0125",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Naming_Ranges_and_Extracting_Filtered_Rows/Practice",
+                "tracking": true
+              },
+              {
+                "name": "Perform",
+                "item-type": "resource",
+                "resource": "RE_0126",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Naming_Ranges_and_Extracting_Filtered_Rows/Perform",
+                "tracking": true
+              },
+              {
+                "name": "References",
+                "item-type": "folder",
+                "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Naming_Ranges_and_Extracting_Filtered_Rows/References",
+                "tracking": true,
+                "sub-type": "default",
+                "items": [
+                  {
+                    "name": "Methods",
+                    "item-type": "resource",
+                    "resource": "RE_0127",
+                    "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Naming_Ranges_and_Extracting_Filtered_Rows/References/Methods",
+                    "tracking": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "End of Module Assessment",
+            "item-type": "resource",
+            "resource": "RE_0128",
+            "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/End_of_Module_Assessment",
+            "tracking": true
+          }
+        ]
+      }
+    ]
+  },
+  "resources": {
+    "generic": {
+      "RE_0001": {
+        "sub-type": "html",
+        "tags": [
+          "Reading"
+        ],
+        "html": {
+          "url": "http://www.gcflearnfree.org/print/excelxp/identifying-basic-parts-of-the-excel-window?playlist=Excel_XP"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0002": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "53"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0003": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_1/GO16.XL.01.1A.01.T1/GO16.XL.01.1A.01.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0004": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.01.1A.01.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0005": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.01.1A.01.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0006": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.01.1A.01.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0007": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "56"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0008": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_1/GO16.XL.01.1A.02.T1/GO16.XL.01.1A.02.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0009": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.01.1A.02.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0010": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.01.1A.02.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0011": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.01.1A.02.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0012": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "57"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0013": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_1/GO16.XL.01.1A.03.T1/GO16.XL.01.1A.03.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0014": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.01.1A.03.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0015": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.01.1A.03.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0016": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.01.1A.03.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0017": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "60"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0018": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_1/GO16.XL.01.1A.05.T1/GO16.XL.01.1A.05.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0019": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.01.1A.05.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0020": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.01.1A.05.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0021": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.01.1A.05.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0022": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "76"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0023": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_1/GO16.XL.01.1A.16.T1/GO16.XL.01.1A.16.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0024": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.01.1A.16.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0025": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.01.1A.16.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0026": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.01.1A.16.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0027": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "149"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0028": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_2/GO16.XL.02.2B.05.T1/GO16.XL.02.2B.05.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0029": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.02.2B.05.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0030": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.02.2B.05.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0031": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.02.2B.05.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0032": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "132"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0033": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_2/GO16.XL.02.2A.13.T1/GO16.XL.02.2A.13.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0034": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.02.2A.13.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0035": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.02.2A.13.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0036": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.02.2A.13.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0037": {
+        "sub-type": "grader",
+        "tags": [
+          "Test"
+        ],
+        "grader": {
+          "url": "http://itlabng.comprodls.com/global/data/grader/go16_xl_ch01_grader_1a.json"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0038": {
+        "sub-type": "html",
+        "tags": [
+          "Reading"
+        ],
+        "html": {
+          "url": "http://wps.pearsoned.com/bp_go_ms_excel_2013_comp/239/61269/15684911.cw/index.html"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0039": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "121"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0040": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_2/GO16.XL.02.2A.03.T1/GO16.XL.02.2A.03.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0041": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.02.2A.03.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0042": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.02.2A.03.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0043": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.02.2A.03.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0044": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "123"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0045": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_2/GO16.XL.02.2A.04.T1/GO16.XL.02.2A.04.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0046": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.02.2A.04.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0047": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.02.2A.04.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0048": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.02.2A.04.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0049": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "124"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0050": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_2/GO16.XL.02.2A.05.T1/GO16.XL.02.2A.05.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0051": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.02.2A.05.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0052": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.02.2A.05.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0053": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.02.2A.05.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0054": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "127"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0055": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_2/GO16.XL.02.2A.08.T1/GO16.XL.02.2A.08.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0056": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.02.2A.08.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0057": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.02.2A.08.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0058": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.02.2A.08.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0059": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "128"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0060": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_2/GO16.XL.02.2A.09.T1/GO16.XL.02.2A.09.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0061": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.02.2A.09.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0062": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.02.2A.09.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0063": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.02.2A.09.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+
+
+      "RE_0064": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "326"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0065": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_8/GO16.XL.08.8B.07.T1/GO16.XL.08.8B.07.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0066": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.08.8B.07.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0067": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.08.8B.07.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0068": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.08.8B.07.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "How to Use Excel Functions"
+        ]
+      },
+      "RE_0069": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=TaskRepository_GO16_XL_02.xml"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Learning Basic Excel Skills"
+        ]
+      },
+      "RE_0070": {
+        "sub-type": "html",
+        "tags": [
+          "Reading"
+        ],
+        "html": {
+          "url": "http://www.gcflearnfree.org/print/excelxp/identifying-basic-parts-of-the-excel-window?playlist=Excel_XP"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0071": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "185"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0072": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_3/GO16.XL.03.3A.01.T1/GO16.XL.03.3A.01.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0073": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.03.3A.01.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0074": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.03.3A.01.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0075": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.03.3A.01.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0076": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "187"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0077": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_3/GO16.XL.03.3A.02.T1/GO16.XL.03.3A.02.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0078": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.03.3A.02.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0079": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.03.3A.02.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0080": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.03.3A.02.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0081": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "192"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0082": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_3/GO16.XL.03.3A.07.T1/GO16.XL.03.3A.07.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0083": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.03.3A.07.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0084": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.03.3A.07.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0085": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.03.3A.07.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0086": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "208"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0087": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_3/GO16.XL.03.3B.05.T1/GO16.XL.03.3B.05.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0088": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.03.3B.05.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0089": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.03.3B.05.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0090": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.03.3B.05.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0091": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "210"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0092": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_3/GO16.XL.03.3B.06.T1/GO16.XL.03.3B.06.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0093": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.03.3B.06.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0094": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.03.3B.06.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0095": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.03.3B.06.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0096": {
+        "sub-type": "grader",
+        "tags": [
+          "Test"
+        ],
+        "grader": {
+          "url": "http://itlabng.comprodls.com/global/data/grader/go16_xl_ch01_grader_3a.json"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Charts"
+        ]
+      },
+      "RE_0097": {
+        "sub-type": "html",
+        "tags": [
+          "Reading"
+        ],
+        "html": {
+          "url": "http://www.gcflearnfree.org/excel2013/functions/full/"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0098": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "263"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0099": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_5/GO16.XL.05.5B.01.T1/GO16.XL.05.5B.01.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0100": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.05.5B.01.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0101": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.05.5B.01.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0102": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.05.5B.01.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0103": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "266"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0104": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_5/GO16.XL.05.5B.02.T1/GO16.XL.05.5B.02.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0105": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.05.5B.02.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0106": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.05.5B.02.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0107": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.05.5B.02.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0108": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "267"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0109": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_5/GO16.XL.05.5B.03.T1/GO16.XL.05.5B.03.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0110": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.05.5B.03.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0111": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.05.5B.03.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0112": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.05.5B.03.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0113": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "269"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0114": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_5/GO16.XL.05.5B.04.T1/GO16.XL.05.5B.04.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0115": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.05.5B.04.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0116": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.05.5B.04.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0117": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.05.5B.04.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0118": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "270"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0119": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_5/GO16.XL.05.5B.04.T1/GO16.XL.05.5B.04.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0120": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.05.5B.04.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0121": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.05.5B.04.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0122": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.05.5B.04.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0123": {
+        "sub-type": "book",
+        "tags": [
+          "Reading"
+        ],
+        "book": {
+          "url": "274"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0124": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_5/GO16.XL.05.5B.06.T1/GO16.XL.05.5B.06.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0125": {
+        "sub-type": "simulation",
+        "tags": [
+          "Practice"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.XL.05.5B.06.T1:1&launchMode=practicedirect"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0126": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.XL.05.5B.06.T1"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0127": {
+        "sub-type": "weblink",
+        "tags": [
+          "Test"
+        ],
+        "weblink": {
+          "url": "http://balooqa.comprotechnologies.com:3033/scenarios/GO16.XL.05.5B.06.T1?includeActions=true"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0128": {
+        "sub-type": "simulation",
+        "tags": [
+          "Test"
+        ],
+        "simulation": {
+          "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=TaskRepository_GO16_XL_04.xml"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Use of Filtering and Sorting"
+        ]
+      },
+      "RE_0129": {
+        "sub-type": "test",
+        "tags": [
+           "Test"
+        ],
+        "test": {
+            "url": "Test-1"
+        },
+        "description": "",
+        "learning-objectives": [
+           "Learning Basic Excel Skills"
+        ]
+      }
+    },
+    "test": {},
+    "ebook": {}
+  },
+  "meta": {
+    "schema": 1,
+    "title": "Excel Fundamentals for Business",
+    "code": "",
+    "author": "John Doe",
+    "thumbnailsmall": "cover.jpg",
+    "thumbnaillarge": "cover.jpg",
+    "description": "",
+    "producttype": "courseware"
+  }
+}
