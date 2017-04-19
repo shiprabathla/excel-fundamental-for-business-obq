@@ -3087,12 +3087,15 @@
   },
   "meta": {
     "schema": 1,
-    "title": "Excel Fundamentals for Business",
+    "title": "Excel Fundamentals for Business OBQ",
     "code": "",
     "author": "John Doe",
     "thumbnailsmall": "cover.jpg",
     "thumbnaillarge": "cover.jpg",
     "description": "",
-    "producttype": "courseware"
+    "producttype": "courseware",
+    "model": {
+          "type": "itlabgeneric"
+    }
   }
 }
