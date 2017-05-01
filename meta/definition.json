@@ -30,6 +30,17 @@
     }
   },
   "items":{
+    "model": {
+        "introduction": [
+          {
+	    "name": "Introduction : Video",
+	    "item-type": "resource",
+	    "resource": "RE_0129",
+	    "item-code": "Introduction_:_Video",
+	    "tracking": true
+          }
+        ]
+    },
     "default" : [
       {
         "name": "Module 01 - Learning Basic Skills",
@@ -47,7 +58,7 @@
           {
 	    "name": "Fill in the blanks",
 	    "item-type": "resource",
-	    "resource": "RE_0129",
+	    "resource": "RE_0130",
 	    "item-code": "Module_01-_Learning_Basic_Skills_module/Fill_in_the_blanks",
 	    "tracking": true
           },
@@ -3069,6 +3080,17 @@
         ]
       },
       "RE_0129": {
+	"sub-type": "video",
+        "tags": [
+          "Videos"
+         ],
+         "video": {
+           "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_1/GO16.XL.01.1A.01.T1/GO16.XL.01.1A.01.T1.mp4"
+          },
+          "description": "",
+          "learning-objectives": []
+      },
+      "RE_0130": {
         "sub-type": "test",
         "tags": [
            "Test"
@@ -3092,7 +3114,7 @@
     "author": "John Doe",
     "thumbnailsmall": "cover.jpg",
     "thumbnaillarge": "cover.jpg",
-    "description": "",
+    "description": "<p>In this course, you will learn basic concepts of Microsoft Excel with focus on skills that will be useful in everyday business environment. you will use the Statistical functions to calculate the average of a group of numbers and perform other summary calculations.You will also use Logical and Date & Time functions.</p><p>As part of the course, you will work with two different types of commonly used charts that make it easy to visualize data. You will create a pie chart in a separate chart sheet to show how the parts of a fund contribute to a total fund. Pie charts are one type of chart you can use to show part-to-whole relationships.</p><p>As part of the course, you will use advanced sorting, sorting on multiple columns, and custom filtering to compare subsets of data. You will also limit data to display records that meet one or more specific conditions, add subtotals, and outline data. We will end up with Additional Reading Material which will provide reading material from other books.</p>",
     "producttype": "courseware",
     "model": {
           "type": "itlabgeneric"
