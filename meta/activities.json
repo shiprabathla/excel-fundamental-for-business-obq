@@ -32,13 +32,10 @@
           } 
         ],
         "stimulus": [
-          {
-            "tag": "image",
-            "image": "images/Q3_Never_Ending_Loop.png"
-          }
+          
         ],
         "canvas": {
-          "layout": "MCQ_IMAGE_NEW",
+          "layout": "",
           "data": {
             "questiondata": [
               {
