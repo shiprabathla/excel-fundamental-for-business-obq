@@ -1,0 +1,433 @@
+{
+  "items": [
+    {
+      "name": "Test 1",
+      "item-code": "Test-1",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "item-type": "resource",
+          "resource": "RE_00001",
+          "name": "Question 1",
+          "item-code": "Test-1/Question_1"
+        },
+        {
+          "item-type": "resource",
+          "resource": "RE_00002",
+          "name": "Question 2",
+          "item-code": "Test-1/Question_2"
+        },
+        {
+          "item-type": "resource",
+          "resource": "RE_00003",
+          "name": "Question 3",
+          "item-code": "Test-1/Question_3"
+        },
+        {
+          "item-type": "resource",
+          "resource": "RE_00004",
+          "name": "Question 4",
+          "item-code": "Test-1/Question_4"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "RE_0001": {
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "learning-objectives": [
+
+      ],
+      "meta": {
+        "score": {
+          "default": 0,
+          "min": 0,
+          "max": 1
+        },
+        "type": "FIB"
+      },
+      "responses": {
+        "i1": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "van"
+        },
+        "i2": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "va"
+        },
+        "i3": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "van"
+        },
+        "i4": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "vas"
+        },
+        "i5": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "vamos"
+        },
+        "i6": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "voy"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "html": "<b>Completar </b>Fill in the blanks with the appropriate forms of ir. (6 x 0.5 pt. each = 3 pts.)",
+            "tag": "html"
+          }
+        ],
+        "canvas": {
+          "layout": "FIB",
+          "data": {
+            "questiondata": [
+              {
+                "text": "El sábado tío Luis y tía Tere <a href='http://www.comprodls.com/m1.0/interaction/fib'>i1</a> de excursión a las montañas."
+              },
+              {
+                "text": "Mi hermana Perla <a href='http://www.comprodls.com/m1.0/interaction/fib'>i2</a> con unas amigas al cine."
+              },
+              {
+                "text": "Ustedes <a href='http://www.comprodls.com/m1.0/interaction/fib'>i3</a> a un restaurante muy elegante."
+              },
+              {
+                "text": "Tú <a href='http://www.comprodls.com/m1.0/interaction/fib'>i4</a> a casa de tu amigo Manuel."
+              },
+              {
+                "text": "Nosotros <a href='http://www.comprodls.com/m1.0/interaction/fib'>i5</a> al centro."
+              },
+              {
+                "text": "Yo <a href='http://www.comprodls.com/m1.0/interaction/fib'>i6</a> a un partido de fútbol americano con mi hermano mayor."
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "hint": {
+
+        },
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "interactions": {
+          "i1": {
+            "type": "FIB"
+          },
+          "i2": {
+            "type": "FIB"
+          },
+          "i3": {
+            "type": "FIB"
+          },
+          "i4": {
+            "type": "FIB"
+          },
+          "i5": {
+            "type": "FIB"
+          },
+          "i6": {
+            "type": "FIB"
+          }
+        }
+      },
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0002": {
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "learning-objectives": [
+
+      ],
+      "meta": {
+        "score": {
+          "default": 0,
+          "min": 0,
+          "max": 1
+        },
+        "type": "FIB"
+      },
+      "responses": {
+        "i1": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "empieza"
+        },
+        "i2": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "juegan"
+        },
+        "i3": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "pide"
+        },
+        "i4": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "oye"
+        },
+        "i5": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "preferimos"
+        },
+        "i6": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "sigues"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "html": "<b>Completar </b>Fill in the blanks with the appropriate form of the verbs. (6 × 2 pts. each = 12 pts.)",
+            "tag": "html"
+          }
+        ],
+        "canvas": {
+          "layout": "FIB",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Sofía <a href='http://www.comprodls.com/m1.0/interaction/fib'>i1</a> (empezar) a ver una película."
+              },
+              {
+                "text": "Los Pumas de la UNAM <a href='http://www.comprodls.com/m1.0/interaction/fib'>i2</a> (jugar) en el estadio."
+              },
+              {
+                "text": "El jugador <a href='http://www.comprodls.com/m1.0/interaction/fib'>i3</a> (pedir) una pelota de tenis."
+              },
+              {
+                "text": "Mariana <a href='http://www.comprodls.com/m1.0/interaction/fib'>i4</a> (oír) la radio por la tarde."
+              },
+              {
+                "text": "César y yo <a href='http://www.comprodls.com/m1.0/interaction/fib'>i5</a> (preferir) jugar al vóleibol."
+              },
+              {
+                "text": "Tú <a href='http://www.comprodls.com/m1.0/interaction/fib'>i6</a> (seguir) el partido por la radio."
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "hint": {
+
+        },
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "interactions": {
+          "i1": {
+            "type": "FIB"
+          },
+          "i2": {
+            "type": "FIB"
+          },
+          "i3": {
+            "type": "FIB"
+          },
+          "i4": {
+            "type": "FIB"
+          },
+          "i5": {
+            "type": "FIB"
+          },
+          "i6": {
+            "type": "FIB"
+          }
+        }
+      },
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0003": {
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "learning-objectives": [
+
+      ],
+      "meta": {
+        "score": {
+          "default": 0,
+          "min": 0,
+          "max": 1
+        },
+        "type": "MCSR"
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "<p>In JavaScript, lambdas are commonly used to?</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "hint": {
+
+        },
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "interactions": {
+          "i1": {
+            "MCSR": [
+              {
+                "choiceA": "Perform operations on the other arguments passed in"
+              },
+              {
+                "choiceB": "Attach event handlers for DOM interactions"
+              },
+              {
+                "choiceC": "Pass in a callback function to be executed when the current function is complete"
+              },
+              {
+                "choiceD": "All of the above"
+              }
+            ],
+            "type": "MCSR"
+          }
+        }
+      },
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0004": {
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "learning-objectives": [
+
+      ],
+      "meta": {
+        "score": {
+          "default": 0,
+          "min": 0,
+          "max": 1
+        },
+        "type": "MCSR"
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "<p>The function definitions in JavaScript begins with?</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "hint": {
+
+        },
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "interactions": {
+          "i1": {
+            "MCSR": [
+              {
+                "choiceA": "Identifier and Paranthesis"
+              },
+              {
+                "choiceB": "Return type and Identifier"
+              },
+              {
+                "choiceC": "Return type, Function keyword, Identifier and Paranthesis"
+              },
+              {
+                "choiceD": "Identifier and Return type"
+              }
+            ],
+            "type": "MCSR"
+          }
+        }
+      },
+      "tags": [
+        "test"
+      ]
+    }
+  },
+  "test": {
+    "learning-objectives": {
+      "Learning Basic Excel Skills": {
+        "learning-objectives": {
+        }
+      }
+    },
+    "tags": {
+      "test": {
+        "tags": {}
+      }
+    }
+  }
+}
