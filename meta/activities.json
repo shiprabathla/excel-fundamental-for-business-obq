@@ -47,37 +47,37 @@
         "instructions": [
           {
             "tag": ""
-          } 
+          }
         ],
         "stimulus": [
-          
+
         ],
         "canvas": {
-          "layout": "MCQ",
+          "layout": "",
           "data": {
             "questiondata": [
               {
-                "text": "<p>Will this code ever end?</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "<p>Which of the following statements will throw an error?</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
           "raw": ""
-        },     
+        },
         "interactions": {
           "i1": {
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "I don’t know" 
+                "choiceA": "i=10"
               },
               {
-                "choiceB": "No, this code will not stop running, until we force quit the program."
+                "choiceB": "my_name = 'Saya'"
               },
               {
-                "choiceC": "Yes, this code will stop after running 1000 times"
+                "choiceC": "2nd_number = 20"
               },
               {
-                "choiceD": "There is an error in this code"
+                "choiceD": "_ = 100"
               }
             ]
           }
@@ -88,29 +88,29 @@
         "i1": {
           "fn_contains": [
             {
-             "keywords": ["I don’t know"],
-             "message": "That’s ok. We are trying to create a custom course for you, so it is good for us to know what you know",
-             "action": "end-current-test"
+              "keywords": ["i=10"],
+              "message": "This will not throw an error"
             },
             {
-             "keywords": ["No, this code will not stop running, until we force quit the program."],
-             "message": "This is correct. Now we know that you know how while loops work.",
-             "action": "end-current-question"
+              "keywords": ["my_name = 'Saya'"],
+              "message": "This will not throw an error",
+              "action": "end-current-test"
             },
             {
-             "keywords": ["Yes, this code will stop after running 1000 times"],
-             "message": "Hmm. Have a look at line 2 again, do you think the code suggests that the program end after the while loop has executed a 1000 times."         
+              "keywords": ["2nd_number = 20"],
+              "message": "Variable names cannot start with a number.",
+              "action": "end-current-question"
             },
             {
-             "keywords": ["There is an error in this code"],
-             "message": "That’s interesting. We were able to run this code without any errors."         
+              "keywords": ["_ = 100"],
+              "message": "This will not throw an error"
             }
-          ]      
+          ]
         }
       },
       "responses": {
         "i1": {
-          "correct": "choiceB"
+          "correct": "choiceC"
         }
       },
       "learning-objectives": [],
@@ -245,71 +245,59 @@
       "content": {
         "instructions": [
           {
-            "tag": ""
+            "tag": "text",
+            "text": ""
           }
-        ],
-        "stimulus": [
-
         ],
         "canvas": {
           "layout": "MCQ",
           "data": {
             "questiondata": [
               {
-                "text": "<p>Will this code ever end?</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "<p>In JavaScript, lambdas are commonly used to?</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
           "raw": ""
         },
+        "hint": {
+
+        },
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
         "interactions": {
           "i1": {
-            "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "I don’t know"
+                "choiceA": "Perform operations on the other arguments passed in"
               },
               {
-                "choiceB": "No, this code will not stop running, until we force quit the program."
+                "choiceB": "Attach event handlers for DOM interactions"
               },
               {
-                "choiceC": "Yes, this code will stop after running 1000 times"
+                "choiceC": "Pass in a callback function to be executed when the current function is complete"
               },
               {
-                "choiceD": "There is an error in this code"
+                "choiceD": "All of the above"
               }
-            ]
+            ],
+            "type": "MCSR"
           }
-        },
-        "hint": {}
+        }
       },
       "feedback": {
-        "i1": {
-          "fn_contains": [
-            {
-              "keywords": ["I don’t know"],
-              "message": "That’s ok. We are trying to create a custom course for you, so it is good for us to know what you know",
-              "action": "end-current-test"
-            },
-            {
-              "keywords": ["No, this code will not stop running, until we force quit the program."],
-              "message": "This is correct. Now we know that you know how while loops work.",
-              "action": "end-current-question"
-            },
-            {
-              "keywords": ["Yes, this code will stop after running 1000 times"],
-              "message": "Hmm. Have a look at line 2 again, do you think the code suggests that the program end after the while loop has executed a 1000 times."
-            },
-            {
-              "keywords": ["There is an error in this code"],
-              "message": "That’s interesting. We were able to run this code without any errors."
-            }
-          ]
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
         }
       },
       "responses": {
         "i1": {
-          "correct": "choiceB"
+          "correct": "choiceD"
         }
       },
       "learning-objectives": [],
@@ -333,7 +321,10 @@
           }
         ],
         "stimulus": [
-
+          {
+            "tag": "image",
+            "image": "Q3_Never_Ending_Loop.png"
+          }
         ],
         "canvas": {
           "layout": "MCQ",
