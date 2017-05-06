@@ -7,8 +7,26 @@
       "sub-type": "test",
       "items": [
         {
-          "name": "0004 Q3 Never Ending Loop",
-          "item-code": "Test-1/0004_Q3_Never_Ending_Loop",
+          "name": "0004 Q3 Never Ending Loop1",
+          "item-code": "Test-1/0004_Q3_Never_Ending_Loop1",
+          "item-type": "resource",
+          "resource": "RE_0001"
+        },
+        {
+          "name": "0004 Q3 Never Ending Loop2",
+          "item-code": "Test-1/0004_Q3_Never_Ending_Loop2",
+          "item-type": "resource",
+          "resource": "RE_0001"
+        },
+        {
+          "name": "0004 Q3 Never Ending Loop3",
+          "item-code": "Test-1/0004_Q3_Never_Ending_Loop3",
+          "item-type": "resource",
+          "resource": "RE_0001"
+        },
+        {
+          "name": "0004 Q3 Never Ending Loop4",
+          "item-code": "Test-1/0004_Q3_Never_Ending_Loop4",
           "item-type": "resource",
           "resource": "RE_0001"
         }
