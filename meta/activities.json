@@ -120,7 +120,7 @@
     },
     "RE_0002": {
       "meta": {
-        "type": "MCSR",
+        "type": "FIB",
         "score": {
           "default": 0,
           "max": 1,
@@ -130,71 +130,102 @@
       "content": {
         "instructions": [
           {
-            "tag": ""
+            "html": "<b>Completar </b>Fill in the blanks with the appropriate forms of ir. (6 x 0.5 pt. each = 3 pts.)",
+            "tag": "html"
           }
         ],
-        "stimulus": [
-
-        ],
         "canvas": {
-          "layout": "MCQ",
+          "layout": "FIB",
           "data": {
             "questiondata": [
               {
-                "text": "<p>Will this code ever end?</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "El sábado tío Luis y tía Tere <a href='http://www.comprodls.com/m1.0/interaction/fib'>i1</a> de excursión a las montañas."
+              },
+              {
+                "text": "Mi hermana Perla <a href='http://www.comprodls.com/m1.0/interaction/fib'>i2</a> con unas amigas al cine."
+              },
+              {
+                "text": "Ustedes <a href='http://www.comprodls.com/m1.0/interaction/fib'>i3</a> a un restaurante muy elegante."
+              },
+              {
+                "text": "Tú <a href='http://www.comprodls.com/m1.0/interaction/fib'>i4</a> a casa de tu amigo Manuel."
+              },
+              {
+                "text": "Nosotros <a href='http://www.comprodls.com/m1.0/interaction/fib'>i5</a> al centro."
+              },
+              {
+                "text": "Yo <a href='http://www.comprodls.com/m1.0/interaction/fib'>i6</a> a un partido de fútbol americano con mi hermano mayor."
               }
             ]
           },
           "raw": ""
         },
+        "hint": {
+
+        },
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
         "interactions": {
           "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "I don’t know"
-              },
-              {
-                "choiceB": "No, this code will not stop running, until we force quit the program."
-              },
-              {
-                "choiceC": "Yes, this code will stop after running 1000 times"
-              },
-              {
-                "choiceD": "There is an error in this code"
-              }
-            ]
+            "type": "FIB"
+          },
+          "i2": {
+            "type": "FIB"
+          },
+          "i3": {
+            "type": "FIB"
+          },
+          "i4": {
+            "type": "FIB"
+          },
+          "i5": {
+            "type": "FIB"
+          },
+          "i6": {
+            "type": "FIB"
           }
-        },
-        "hint": {}
+        }
       },
       "feedback": {
-        "i1": {
-          "fn_contains": [
-            {
-              "keywords": ["I don’t know"],
-              "message": "That’s ok. We are trying to create a custom course for you, so it is good for us to know what you know",
-              "action": "end-current-test"
-            },
-            {
-              "keywords": ["No, this code will not stop running, until we force quit the program."],
-              "message": "This is correct. Now we know that you know how while loops work.",
-              "action": "end-current-question"
-            },
-            {
-              "keywords": ["Yes, this code will stop after running 1000 times"],
-              "message": "Hmm. Have a look at line 2 again, do you think the code suggests that the program end after the while loop has executed a 1000 times."
-            },
-            {
-              "keywords": ["There is an error in this code"],
-              "message": "That’s interesting. We were able to run this code without any errors."
-            }
-          ]
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
         }
       },
       "responses": {
         "i1": {
-          "correct": "choiceB"
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "van"
+        },
+        "i2": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "va"
+        },
+        "i3": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "van"
+        },
+        "i4": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "vas"
+        },
+        "i5": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "vamos"
+        },
+        "i6": {
+          "ignorewhitespace": false,
+          "ignorecase": false,
+          "correct": "voy"
         }
       },
       "learning-objectives": [],
