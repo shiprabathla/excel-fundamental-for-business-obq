@@ -53,7 +53,7 @@
 
         ],
         "canvas": {
-          "layout": "",
+          "layout": "MCQ",
           "data": {
             "questiondata": [
               {
@@ -327,7 +327,7 @@
           }
         ],
         "canvas": {
-          "layout": "MCQ",
+          "layout": "MCQ_IMAGE_NEW",
           "data": {
             "questiondata": [
               {
